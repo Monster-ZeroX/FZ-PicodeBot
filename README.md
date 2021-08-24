@@ -1,4 +1,4 @@
-<img alt="Issues" src="https://img.shields.io/github/issues/hoosnick/picodebot?color=0088f0&style=flat-square"/>
+<a href="https://t.me/serenecorp"><img alt="Issues" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 **📒 Source code of the** [@PicodeBot](https://t.me/picodebot)
 
