@@ -4,7 +4,7 @@
 
 **🧸 Developer:** [@hoosnick](https://t.me/hoosnick)
 
-**💎 API Owner:** [petersolopov](https://github.com/petersolopov) _(thans you, bro)_
+**💎 API Owner:** [petersolopov](https://github.com/petersolopov) _(thank you, bro)_
 <hr>
 
 ## Run
