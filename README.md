@@ -1,5 +1,4 @@
 <img alt="Issues" src="https://img.shields.io/github/issues/hoosnick/picodebot?color=0088f0&style=flat-square"/>
-<img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/hoosnick/picodebot?style=flat-square">
 
 **📒 Source code of the** [@PicodeBot](https://t.me/picodebot)
 
