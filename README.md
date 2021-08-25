@@ -3,8 +3,6 @@
 **📒 Source code of the** [@PicodeBot](https://t.me/picodebot)
 
 **🧸 Developer:** [@hoosnick](https://t.me/hoosnick)
-
-**💎 API Owner:** [petersolopov](https://github.com/petersolopov) _(thank you, bro)_
 <hr>
 
 ## Run
