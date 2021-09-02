@@ -26,16 +26,16 @@ def in_start(message: Message):
 
         if not existing_checker(user_id=user_id):
             new_user(user_id=user_id, first_name=first_name, last_name=last_name)
-            bot.send_message(chat_id=user_id, text="*🔻 Select a theme:*", reply_markup=themes())
+            bot.send_message(chat_id=user_id, text="*🎲 Select a theme:*", reply_markup=themes())
         else:
             checker = themeANDcolor(user_id)['theme']
             if checker is not None:
                 msg = bot.send_message(
                     chat_id=user_id,
-                    text="*🔺 INFORMATION:*\n"
-                         f"🔹 _Theme:_ `{themeANDcolor(user_id)['theme'].title()}`\n"
-                         f"🔹 _Color:_ `{themeANDcolor(user_id)['color']}`\n"
-                         "🔻 @hoosnick | @serenecorp\n\n"
+                    text="*🔺 INFORMATION: 〽️*\n"
+                         f"💠 _Theme:_ `{themeANDcolor(user_id)['theme'].title()}`\n"
+                         f"💠 _Color:_ `{themeANDcolor(user_id)['color']}`\n"
+                         "🔻 @FZBOTS 🥇\n\n"
                          "*SEND YOUR CODE OR CHANGE THEME & COLOR:*",
                     reply_markup=main_menu()
                 )
@@ -68,7 +68,7 @@ def in_text(message: Message, messageID = None):
                     bot.send_photo(
                         chat_id=user_id,
                         photo=pic,
-                        caption='*💥 @picodebot*',
+                        caption='*🟢✔️Created By @FZPicodeBot*',
                         reply_markup=main_menu())
                     bot.delete_message(chat_id=user_id, message_id=msg.message_id)
             else:
